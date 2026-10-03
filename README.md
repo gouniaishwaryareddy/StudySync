@@ -9,7 +9,7 @@ In pgAdmin Query Tool run:  CREATE DATABASE student_dashboard;
 ## 2. Backend
 1. Open `backend/src/main/resources/application.properties`
    and replace YOUR_PASSWORD_HERE with your PostgreSQL password.
-2. Open the `backend` folder in IntelliJ IDEA and run StudentDashboardApplication
+2. Open the project in Visual Studio Code, open a terminal in the `backend` folder, and run `mvn spring-boot:run`
    (or run `mvn spring-boot:run` inside `backend`).
 3. Wait for "Started StudentDashboardApplication" (server on port 8080).
 
