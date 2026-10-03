@@ -1,4 +1,4 @@
-# StudyFlow - Student Productivity Dashboard
+# StudySync - Student Productivity Dashboard
 
 Stack: HTML/CSS/JS + Chart.js -> REST API -> Spring Boot -> JPA/Hibernate -> PostgreSQL
 
